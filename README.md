@@ -71,7 +71,7 @@ Express is a fast, open and concise web framework and is a Node.js based project
 ### Install with the npm Global Package
 
 ```bash
-$ npm install -g typescript-express-starter
+npm install -g typescript-express-starter
 ```
 
 ### Run npx to Install The Package
@@ -83,7 +83,7 @@ This is a tool that allows you to run the npm package on a single run without in
 If you do not enter a project name, it defaults to _typescript-express-starter_.
 
 ```bash
-$ npx typescript-express-starter "project name"
+npx typescript-express-starter "project name"
 ```
 
 ### Select a Templates
